@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code Project\\C\\Learning\\Ecosystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|solutionrelative:sim\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\grass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|solutionrelative:sim\\grass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\basic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|solutionrelative:sim\\basic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\basic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|solutionrelative:sim\\basic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\rabbit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|solutionrelative:sim\\rabbit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\lion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|solutionrelative:sim\\lion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\lion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|solutionrelative:sim\\lion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\living.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|solutionrelative:sim\\living.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|solutionrelative:sim\\world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\world.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|solutionrelative:sim\\world.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|solutionrelative:sim\\scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|solutionrelative:sim\\scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\fox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB712932-3409-4B86-95C5-E7A6A06808EB}|Ecosystem.vcxproj|solutionrelative:sim\\fox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "basic.cpp",
+              "DocumentMoniker": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\basic.cpp",
+              "RelativeDocumentMoniker": "sim\\basic.cpp",
+              "ToolTip": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\basic.cpp",
+              "RelativeToolTip": "sim\\basic.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T07:30:40.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "living.h",
+              "DocumentMoniker": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\living.h",
+              "RelativeDocumentMoniker": "sim\\living.h",
+              "ToolTip": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\living.h",
+              "RelativeToolTip": "sim\\living.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-21T07:29:51.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "scene.h",
+              "DocumentMoniker": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\scene.h",
+              "RelativeDocumentMoniker": "sim\\scene.h",
+              "ToolTip": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\scene.h",
+              "RelativeToolTip": "sim\\scene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-21T07:26:45.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fox.cpp",
+              "DocumentMoniker": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\fox.cpp",
+              "RelativeDocumentMoniker": "sim\\fox.cpp",
+              "ToolTip": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\fox.cpp",
+              "RelativeToolTip": "sim\\fox.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwCQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T07:03:43.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "world.h",
+              "DocumentMoniker": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\world.h",
+              "RelativeDocumentMoniker": "sim\\world.h",
+              "ToolTip": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\world.h",
+              "RelativeToolTip": "sim\\world.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwC8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-21T06:59:37.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "basic.h",
+              "DocumentMoniker": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\basic.h",
+              "RelativeDocumentMoniker": "sim\\basic.h",
+              "ToolTip": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\basic.h",
+              "RelativeToolTip": "sim\\basic.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-20T11:35:45.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "world.cpp",
+              "DocumentMoniker": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\world.cpp",
+              "RelativeDocumentMoniker": "sim\\world.cpp",
+              "ToolTip": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\world.cpp",
+              "RelativeToolTip": "sim\\world.cpp",
+              "ViewState": "AQIAAPwAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T04:45:22.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lion.h",
+              "DocumentMoniker": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\lion.h",
+              "RelativeDocumentMoniker": "sim\\lion.h",
+              "ToolTip": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\lion.h",
+              "RelativeToolTip": "sim\\lion.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-21T06:33:32.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lion.cpp",
+              "DocumentMoniker": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\lion.cpp",
+              "RelativeDocumentMoniker": "sim\\lion.cpp",
+              "ToolTip": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\lion.cpp",
+              "RelativeToolTip": "sim\\lion.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T06:33:22.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rabbit.cpp",
+              "DocumentMoniker": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\rabbit.cpp",
+              "RelativeDocumentMoniker": "sim\\rabbit.cpp",
+              "ToolTip": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\rabbit.cpp",
+              "RelativeToolTip": "sim\\rabbit.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T06:13:57.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "grass.cpp",
+              "DocumentMoniker": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\grass.cpp",
+              "RelativeDocumentMoniker": "sim\\grass.cpp",
+              "ToolTip": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\grass.cpp",
+              "RelativeToolTip": "sim\\grass.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T06:08:31.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "scene.cpp",
+              "DocumentMoniker": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\scene.cpp",
+              "RelativeDocumentMoniker": "sim\\scene.cpp",
+              "ToolTip": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\scene.cpp",
+              "RelativeToolTip": "sim\\scene.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T05:13:13.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\main.cpp",
+              "RelativeDocumentMoniker": "sim\\main.cpp",
+              "ToolTip": "E:\\Code Project\\C\\Learning\\Ecosystem\\sim\\main.cpp",
+              "RelativeToolTip": "sim\\main.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-20T03:26:54.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
